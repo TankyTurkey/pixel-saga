@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Would you like to know more about it ?{' '}
+         
           <code className={styles.code}>
             <Link href="https://opensea.io/collection/tankyturkey">
               click here to see more
