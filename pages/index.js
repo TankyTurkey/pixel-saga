@@ -18,30 +18,30 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-         Our Handles
+        
           <code className={styles.code}>
             <Link href="https://opensea.io/collection/tankyturkey">
               OpenSea 
             </Link>
           </code>
 <code className={styles.code}>
-            <Link href="https://opensea.io/collection/tankyturkey">
+            <Link href="https://facebook.com/tankyturkey">
               Facebook
             </Link>
           </code>
 <code className={styles.code}>
-            <Link href="https://opensea.io/collection/tankyturkey">
+            <Link href="https://twitter.com/tankyturkey">
             Twitter
             </Link>
           </code>
 <code className={styles.code}>
-            <Link href="https://opensea.io/collection/tankyturkey">
+            <Link href="t.me/tankyturkey">
              Telegram
             </Link>
           </code>
 <code className={styles.code}>
-            <Link href="https://opensea.io/collection/tankyturkey">
-         Telegram
+            <Link href="https://github.com/TankyTurkey">
+         Github
             </Link>
           </code>
         </p>
