@@ -46,8 +46,8 @@ export default function Home() {
           </code>
         </p>
  <div className={styles.grid}>
-Tanky Turkey NFTs is a collection of randomly generated thanksgiving turkey. 
-Total of 366+1 art pieces on OpenSea NFTs Marketplace, 366 published on polygon network and
+Tanky Turkey NFTs is a collection of randomly generated thanksgiving turkey. All art pieces are unique.
+A Total of 366+1 art pieces on OpenSea NFTs Marketplace, 366 published on polygon network and
 1 outstanding piece to be published on ethereum network soon.
 </div>
         <div className={styles.grid}>
