@@ -7,20 +7,20 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Pixel Saga - NFT</title>
-        <meta name="description" content="Non-Fungible Token Pixel Saga" />
+        <title>Tanky Turkey - NFT</title>
+        <meta name="description" content="Non-Fungible Token Tanky Turkey" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          NFT <a href="https://opensea.io/collection/pixel-saga">Pixel Saga</a>
+          NFT <a href="https://opensea.io/collection/tankyturkey">Tanky Turkey</a>
         </h1>
 
         <p className={styles.description}>
           Would you like to know more about it ?{' '}
           <code className={styles.code}>
-            <Link href="https://opensea.io/collection/pixel-saga">
+            <Link href="https://opensea.io/collection/tankyturkey">
               click here to see more
             </Link>
           </code>
