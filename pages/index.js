@@ -32,34 +32,34 @@ Total of 366+1 art pieces on OpenSea NFTs Marketplace, 366 published on polygon 
 </div>
         <div className={styles.grid}>
           <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81210281507696217995685449912678685468372656662771121513866832894761057124353/" className={styles.card}>
-            <h2>Pixel #01</h2>
+            <h2>Tanky Turkey #01</h2>
             <img 
               src="https://res.cloudinary.com/luneswallet/image/upload/c_scale,w_102/v1630285167/pixel-saga-nft/01.png"
-              alt="Pixel Saga #01"
+              alt="Tanky Turkey #01"
             />
           </a>
 
           <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81210281507696217995685449912678685468372656662771121513866832895860568752129/" className={styles.card}>
-            <h2>Pixel #02</h2>
+            <h2>Tanky Turkey #02</h2>
             <img 
               src="https://res.cloudinary.com/luneswallet/image/upload/c_scale,w_102/v1630285162/pixel-saga-nft/02.png"
-              alt="Pixel Saga #02"
+              alt="Tanky Turkey #02"
             />
           </a>
 
           <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81210281507696217995685449912678685468372656662771121513866832896960080379905/" className={styles.card}>
-            <h2>Pixel #03</h2>
+            <h2>Tanky Turkey #03</h2>
             <img 
               src="https://res.cloudinary.com/luneswallet/image/upload/c_scale,w_102/v1630285182/pixel-saga-nft/pixil-frame-0_1.png"
-              alt="Pixel Saga #03"
+              alt="Tanky Turkey #03"
             />
           </a>
 
           <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81210281507696217995685449912678685468372656662771121513866832898059592007681/" className={styles.card}>
-            <h2>Pixel #04</h2>
+            <h2>Tanky Turkey #04</h2>
             <img 
               src="https://res.cloudinary.com/luneswallet/image/upload/c_scale,w_102/v1630288806/pixel-saga-nft/04.png"
-              alt="Pixel Saga #04"
+              alt="Tanky Turkey #04"
             />
           </a>
         </div>
@@ -67,7 +67,7 @@ Total of 366+1 art pieces on OpenSea NFTs Marketplace, 366 published on polygon 
 
       <footer className={styles.footer}>
         <a
-          href="https://twitter.com/dslaurindo"
+          href="https://twitter.com/tankyturkey"
           target="_blank"
           rel="noopener noreferrer"
         >
